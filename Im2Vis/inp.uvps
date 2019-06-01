@@ -1,0 +1,7 @@
+1	1				: BCHAN		ECHAN
+1	1				: NCHAV 	CHINC
+.1	30.				: Umin		Umax(K lambda)
+.05					: DD(k Lambda)
+32					: Nbin		[Bins are log]
+5.					: Galaxy_Minor_axis/Field_of_view(min)
+45.                                      : Antenna diameter (m)
